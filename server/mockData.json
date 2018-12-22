@@ -1,0 +1,80 @@
+{
+  "players": {
+    "player1": {
+      "id": "player1",
+      "name": "Player 1",
+      "batting": 1,
+      "bowling": 35,
+      "allRound": 10,
+      "value": 100000
+    },
+    "player2": {
+      "id": "player2",
+      "name": "Player 2",
+      "batting": 2,
+      "bowling": 34,
+      "allRound": 11,
+      "value": 90000
+    },
+    "player3": {
+      "id": "player3",
+      "name": "Player 3",
+      "batting": 3,
+      "bowling": 36,
+      "allRound": 12,
+      "value": 80000
+    },
+    "player4": {
+      "id": "player4",
+      "name": "Player 4",
+      "batting": 4,
+      "bowling": 37,
+      "allRound": 18,
+      "value": 90000
+    },
+    "player5": {
+      "id": "player5",
+      "name": "Player 5",
+      "batting": 5,
+      "bowling": 37,
+      "allRound": 18,
+      "value": 90000
+    },
+    "player6": {
+      "id": "player6",
+      "name": "Player 6",
+      "batting": 6,
+      "bowling": 37,
+      "allRound": 18,
+      "value": 90000
+    },
+    "player7": {
+      "id": "player7",
+      "name": "Player 7",
+      "batting": 7,
+      "bowling": 37,
+      "allRound": 18,
+      "value": 90000
+    }
+  },
+  "columns": {
+    "available-players": {
+      "id": "available-players",
+      "title": "Available Players",
+      "playerIds": [
+        "player1",
+        "player2",
+        "player3",
+        "player4",
+        "player5",
+        "player6",
+        "player7"
+      ]
+    },
+    "selected-players": {
+      "id": "selected-players",
+      "title": "Selected Players",
+      "playerIds": []
+    }
+  }
+}
